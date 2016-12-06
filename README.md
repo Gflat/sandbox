@@ -1,4 +1,4 @@
 # sandbox
 Sandbox for demonstrating git
 
-going to make changes
+foo.f90: put in template
